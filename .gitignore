@@ -33,4 +33,6 @@ sysinfo.txt
 
 # IDE
 .idea/
+.vs/
+.vsconfig
 
