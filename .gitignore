@@ -36,3 +36,6 @@ sysinfo.txt
 .vs/
 .vsconfig
 
+# MLAgents Examples
+Assets/ML-Agents*
+
